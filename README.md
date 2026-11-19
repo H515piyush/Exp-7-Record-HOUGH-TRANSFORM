@@ -91,12 +91,6 @@ plt.axis('off')
 
 
 
-##  Instructions
-
-* Fill ONLY in `# Your Code Here` sections
-* Do NOT change existing code
-* Run step-by-step
-* Verify outputs
 
 
 
